@@ -19,6 +19,6 @@ The application should support the tracking of votes in a poll or polls, and upd
 
 Bonus: Enthusiastic applicants are encouraged to show us what else you know. Examples of this could be; orchestrating your application in Docker, unit test coverage, or simply just a really good README.md.
 
-I look forward to receiving any responses or feedback from you!
-Sincerely, 
-  Fan-Chi(Frank) Yeh
+I look forward to receiving any responses or feedback from you! 
+Sincerely,  
+  Fan-Chi(Frank) Yeh 
