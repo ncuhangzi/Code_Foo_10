@@ -16,8 +16,8 @@ Create a real-time polling application similar to the poll widget on our site (e
 
 The application should support the tracking of votes in a poll or polls, and update a corresponding front-end representation of the related poll in real time. Give consideration to how information is stored, updated, and displayed. Data should be persistent. Add any useful features or web design practices you think would make it your own.
 
-Bonus: Enthusiastic applicants are encouraged to show us what else you know. Examples of this could be; orchestrating your application in Docker, unit test coverage, or simply just a really good README.md.
-__Still working in progress, will upload a final version by deadline.__   
+Bonus: Enthusiastic applicants are encouraged to show us what else you know. Examples of this could be; orchestrating your application in Docker, unit test coverage, or simply just a really good README.md.   
+__Reponse is in Poll_project folder.__
 
 I look forward to receiving any responses or feedback from you!  
 Sincerely,  
