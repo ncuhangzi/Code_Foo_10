@@ -1,5 +1,8 @@
 # Code-Foo-10
-Welcome to my repository containing the responses to Code_Foo 10.
+Welcome to my repository containing the responses to Code_Foo 10.   
+   
+__Unfortunatley I didn't went through the hiring process, I failed on the interview. But this project did pass the first round. There might be some features stands out from tons of applicants.__   
+__I was informed that they are only going to hire 2 developers and 1 designer this year, so I'm already satisfied with the result.__   
 
 ## Introduce Yourself 
 Explain your connection to IGN, and tell us why we should pick you to participate in IGN’s Code Foo program. Show your enthusiasm and passion for IGN in the form of a YouTube/Vimeo video, written document, audio track, or whatever format you feel most comfortable with.  
